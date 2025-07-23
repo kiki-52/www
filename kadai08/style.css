@@ -1,0 +1,31 @@
+header{
+    background-color: lime;
+    text-align: center;
+}
+
+ul{
+    font-size: larger;
+    text-align: center;
+}
+
+nav{
+    background-color: beige;
+    padding: 10px 0;
+}
+
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.a{
+    font-size: x-large;
+}
+
+.b{
+    display: flex;
+}
